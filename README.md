@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FatimahHabib84
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data sciences
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently learning React
 
 <!---
 FatimahHabib84/FatimahHabib84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
